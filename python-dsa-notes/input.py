@@ -5,3 +5,7 @@ print("input is->",x)
 # Space seprated input in python
 list_inp=list(map(int,input().split()))
 print(list_inp)
+
+# declaration of set
+Set=set([1,2,2,3])
+print("Set->",Set)
